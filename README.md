@@ -22,8 +22,8 @@ Il progetto è diviso in tre moduli principali per garantire scalabilità e legg
 
 ## Esempi
 
-| Mappa Generata |
-| ![Esempio PNG](assets/eximage0.png) |
+
+![Esempio PNG](assets/eximage0.png)
 
 ## Installazione
 
