@@ -30,5 +30,5 @@ Il progetto è diviso in tre moduli principali per garantire scalabilità e legg
 Assicurati di avere Python installato. Poi, installa le dipendenze necessarie:
 
 ```bash
-pip install noise Pillow
+pip install -r requirements.txt
 
