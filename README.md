@@ -24,7 +24,7 @@ Il progetto è diviso in tre moduli principali per garantire scalabilità e legg
 
 | Mappa Generata | Visualizzazione ASCII |
 | :---: | :---: |
-| ![Esempio PNG](percorso/tua_immagine.png) | `~ ~ . . * * ^ ^` |
+| ![Esempio PNG](documenti/eximage.png) | `~ ~ . . * * ^ ^` |
 
 ## Installazione
 
