@@ -15,7 +15,7 @@ def disegna_mappa(matr, length, height, name, num):
                 foto.putpixel((j, i), colors["oceano"])
             elif matr[i][j] < 0.5:
                 foto.putpixel((j, i), colors["sabbia"])
-            elif matr[i][j] < 0.8:
+            elif matr[i][j] < 0.7:
                 foto.putpixel((j, i), colors["foresta"])
             else:
                 foto.putpixel((j, i), colors["montagna"])
